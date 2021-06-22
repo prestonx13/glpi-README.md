@@ -21,7 +21,7 @@
         "ext-curl": "*",
         "jasig/phpcas": "~1.3.0",
         "iamcal/lib_autolink": "~1.7",
-        "phpmailer/phpmailer": "~5.2",
+        "phpmailer/phpmailer": "~6.5",
         "sabre/vobject": "~3.4",
         "simplepie/simplepie": "~1.4.0",
         "tecnickcom/tcpdf": "~6.2",
